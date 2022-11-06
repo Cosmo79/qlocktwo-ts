@@ -134,17 +134,17 @@ const letters_ro: Letter[][] = [
         { name: 'T', sections: ['sfert'] },
     ],
     [
-        { name: ' ', sections: [] },
-        { name: ' ', sections: [] },
         { name: '+', sections: ['d-1'] },
-        { name: ' ', sections: [] },
         { name: '+', sections: ['d-2'] },
-        { name: ' ', sections: [] },
         { name: '+', sections: ['d-3'] },
-        { name: ' ', sections: [] },
         { name: '+', sections: ['d-4'] },
         { name: ' ', sections: [] },
         { name: ' ', sections: [] },
+        { name: ' ', sections: [] },
+        { name: 'A', sections: ['am'] },
+        { name: 'M', sections: ['am'] },
+        { name: 'P', sections: ['pm'] },
+        { name: 'M', sections: ['pm'] },
     ],
 ];
 
